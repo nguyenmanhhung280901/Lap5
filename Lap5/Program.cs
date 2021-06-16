@@ -29,7 +29,7 @@ namespace Lap5
                 EnglishLevel = 2,
                 UniversityCode = "UN001"
             };
-            Console.WriteLine(highSchoolTeacher.CalculateSalary());
+            Console.WriteLine(universityTeacher.CalculateSalary());
             
         }
     }
